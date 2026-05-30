@@ -10,51 +10,51 @@ SFL ButtonBox, bilgisayarınız ile **SFL ButtonBox (Pro, Plus, Lite)** donanım
 
 ##  ⚙️ Teknik Özellikler Listesi
 
-###🖥️ Yazılım & Arayüz
+### 🖥️ Yazılım & Arayüz
 
-* **Çoklu Dil Desteği: Türkçe, İngilizce, Rusça, Almanca ve Lehçe desteği (anlık dil değiştirme).
+Çoklu Dil Desteği: Türkçe, İngilizce, Rusça, Almanca ve Lehçe desteği (anlık dil değiştirme).
 
-* **Modern UI: Koyu tema (Dark Mode) tasarımı, özelleştirilebilir arayüz öğeleri.
+Modern UI: Koyu tema (Dark Mode) tasarımı, özelleştirilebilir arayüz öğeleri.
 
-* **Akıllı Bağlantı: COM port tarama, otonom Handshake protokolü ve "Tak-Çalıştır" deneyimi.
+Akıllı Bağlantı: COM port tarama, otonom Handshake protokolü ve "Tak-Çalıştır" deneyimi.
 
-* **Sistem Entegrasyonu: Windows başlangıcında otomatik açılma ve System Tray (Tepsi) desteği.
+Sistem Entegrasyonu: Windows başlangıcında otomatik açılma ve System Tray (Tepsi) desteği.
 
-* **Otonom Güncelleme: Zırhlı (OTA) güncelleme motoru ile sürüm kontrolü.
+Otonom Güncelleme: Zırhlı (OTA) güncelleme motoru ile sürüm kontrolü.
 
-###🎮 Makro & Kontrol
+### 🎮 Makro & Kontrol
 
-* **Makro Stüdyosu: Zincirleme komut dizileri (Kopyala/Yapıştır, uygulama tetikleme, zamanlı komutlar).
+Makro Stüdyosu: Zincirleme komut dizileri (Kopyala/Yapıştır, uygulama tetikleme, zamanlı komutlar).
 
-* **Joystick Modu: DirectInput desteği ile oyunlarda oyun kumandası olarak kullanılabilirlik.
+Joystick Modu: DirectInput desteği ile oyunlarda oyun kumandası olarak kullanılabilirlik.
 
-* **Gelişmiş Profilleme: Oynanan oyunu veya aktif programı otomatik algılama (Auto-Profile).
+Gelişmiş Profilleme: Oynanan oyunu veya aktif programı otomatik algılama (Auto-Profile).
 
-* **Tuş Atama: Sınırsız klavye kısayolu atama imkanı.
+Tuş Atama: Sınırsız klavye kısayolu atama imkanı.
 
-###🎚️ Ses & Donanım Yönetimi
+### 🎚️ Ses & Donanım Yönetimi
 
-* **Panel Mikser: Potansiyometreleri bağımsız ses kanallarına atama.
+Panel Mikser: Potansiyometreleri bağımsız ses kanallarına atama.
 
-* **Akıllı Fokus: Odaklanılan pencerenin sesini otomatik yönetme.
+Akıllı Fokus: Odaklanılan pencerenin sesini otomatik yönetme.
 
-* **Sinyal İşleme: Donanımsal aşınmaları kompanse eden "Ses Yumuşatma" (Smoothing Filter).
+Sinyal İşleme: Donanımsal aşınmaları kompanse eden "Ses Yumuşatma" (Smoothing Filter).
 
-* **Kalibrasyon Sihirbazı: Potansiyometreler için 0-100% aralığında hassas kalibrasyon.
+Kalibrasyon Sihirbazı: Potansiyometreler için 0-100% aralığında hassas kalibrasyon.
 
-###🎥 Yayıncı Araçları (OBS/Streamlabs)
+### 🎥 Yayıncı Araçları (OBS/Streamlabs)
 
-* **API Entegrasyonu: Sunucu tabanlı, güvenli OBS Studio ve Streamlabs Desktop kontrolü.
+API Entegrasyonu: Sunucu tabanlı, güvenli OBS Studio ve Streamlabs Desktop kontrolü.
 
-* **Tetikleyiciler: Sahne değişimi, yayını başlat/durdur, Mute/Unmute, Replay Buffer.
+Tetikleyiciler: Sahne değişimi, yayını başlat/durdur, Mute/Unmute, Replay Buffer.
 
-###🛠️ Donanım & Uyumluluk
+### 🛠️ Donanım & Uyumluluk
 
-* **Çoklu Model Desteği: Pro, Plus, Lite, Mini modelleri ile tam uyumluluk.
+Çoklu Model Desteği: Pro, Plus, Lite, Mini modelleri ile tam uyumluluk.
 
-* **Driver Desteği: Dahili CH340 sürücü yükleme sihirbazı.
+Driver Desteği: Dahili CH340 sürücü yükleme sihirbazı.
 
-* **Donanım Koruması: EEPROM tabanlı şifreli cihaz kimliklendirme ve güvenlik mührü.
+Donanım Koruması: EEPROM tabanlı şifreli cihaz kimliklendirme ve güvenlik mührü.
 
 ---
 
