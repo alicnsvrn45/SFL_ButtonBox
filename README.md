@@ -2,9 +2,9 @@
 
 SFL ButtonBox, bilgisayarınız ile **SFL ButtonBox (Pro, Plus, Lite)** donanımları arasında kesintisiz, akıcı ve otonom bir köprü kuran yeni nesil bir mikser, makro ve kontrol yazılımıdır.
 
-### 🛒 Satın Alma
-Ürünü incelemek ve satın almak için:
-[SFL ButtonBox - Sahibinden İlanı](https://www.sahibinden.com/ilan/ikinci-el-ve-sifir-alisveris-oyunculara-ozel-oyuncu-ekipmanlari-buttonbox-button-box-butonbox-ses-mikseri-makro-klavye-1314849212/detay/)
+### 🚀 Hızlı Erişim
+* **📥 Yazılımı İndir:** [SFL_ButtonBox_v1.1.0_Setup.exe](https://github.com/alicnsvrn45/SFL_ButtonBox/archive/refs/heads/main.zip)
+* **🛒 Satın Al & İncele:** [Sahibinden İlan Sayfası](https://www.sahibinden.com/ilan/ikinci-el-ve-sifir-alisveris-oyunculara-ozel-oyuncu-ekipmanlari-buttonbox-button-box-butonbox-ses-mikseri-makro-klavye-1314849212/detay/)
 
 ---
 
@@ -26,7 +26,7 @@ Arayüz ve tüm kullanım rehberleri dil seçiminize göre anında adapte olur:
 
 ## 📦 Kurulum ve Çalıştırma
 
-1. **İndir:** GitHub deposundaki **[SFL_ButtonBox_v1.1.0_Setup.exe](https://www.sahibinden.com/ilan/ikinci-el-ve-sifir-alisveris-oyunculara-ozel-oyuncu-ekipmanlari-buttonbox-button-box-butonbox-ses-mikseri-makro-klavye-1314849212/detay/)** dosyasını indirin.
+1. **İndir:** Yukarıdaki **[SFL_ButtonBox_v1.1.0_Setup.exe](https://github.com/alicnsvrn45/SFL_ButtonBox/archive/refs/heads/main.zip)** bağlantısına tıklayarak dosyayı indirin.
 2. **Kur:** Dosyaya çift tıklayarak kurulum sihirbazını tamamlayın.
 3. **Bağlan:** Cihazınızı takın, yazılım otomatik bağlantı sağlayacaktır.
 
