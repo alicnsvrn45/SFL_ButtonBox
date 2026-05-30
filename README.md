@@ -8,13 +8,47 @@ SFL ButtonBox, bilgisayarınız ile **SFL ButtonBox (Pro, Plus, Lite)** donanım
 
 ---
 
-## ✨ Öne Çıkan Özellikler
+⚙️ Teknik Özellikler Listesi
+🖥️ Yazılım & Arayüz
+Çoklu Dil Desteği: Türkçe, İngilizce, Rusça, Almanca ve Lehçe desteği (anlık dil değiştirme).
 
-- **🔌 Tak-Çalıştır ve Otonom Seri İletişim:** Akıllı port keşfi ve kopma toleransı ile cihazınızı anında tanır.
-- **🎛️ Panel Ses Kontrolleri:** Spotify, Discord ve sistem sesini fiziksel potansiyometrelerle yönetin.
-- **⌨️ Makro Stüdyosu:** Zincirleme komutlar oluşturun ve uygulama başlatıcı olarak kullanın.
-- **🎬 Yayıncı Entegrasyonu:** OBS ve Streamlabs ile tek tuşla sahne değişimi ve yayın yönetimi.
-- **⚙️ Otonom Otomasyon:** Oyunları otomatik algılayıp ilgili profili yükleme (Auto-Profile).
+Modern UI: Koyu tema (Dark Mode) tasarımı, özelleştirilebilir arayüz öğeleri.
+
+Akıllı Bağlantı: COM port tarama, otonom Handshake protokolü ve "Tak-Çalıştır" deneyimi.
+
+Sistem Entegrasyonu: Windows başlangıcında otomatik açılma ve System Tray (Tepsi) desteği.
+
+Otonom Güncelleme: Zırhlı (OTA) güncelleme motoru ile sürüm kontrolü.
+
+🎮 Makro & Kontrol
+Makro Stüdyosu: Zincirleme komut dizileri (Kopyala/Yapıştır, uygulama tetikleme, zamanlı komutlar).
+
+Joystick Modu: DirectInput desteği ile oyunlarda oyun kumandası olarak kullanılabilirlik.
+
+Gelişmiş Profilleme: Oynanan oyunu veya aktif programı otomatik algılama (Auto-Profile).
+
+Tuş Atama: Sınırsız klavye kısayolu atama imkanı.
+
+🎚️ Ses & Donanım Yönetimi
+Panel Mikser: Potansiyometreleri bağımsız ses kanallarına atama.
+
+Akıllı Fokus: Odaklanılan pencerenin sesini otomatik yönetme.
+
+Sinyal İşleme: Donanımsal aşınmaları kompanse eden "Ses Yumuşatma" (Smoothing Filter).
+
+Kalibrasyon Sihirbazı: Potansiyometreler için 0-100% aralığında hassas kalibrasyon.
+
+🎥 Yayıncı Araçları (OBS/Streamlabs)
+API Entegrasyonu: Sunucu tabanlı, güvenli OBS Studio ve Streamlabs Desktop kontrolü.
+
+Tetikleyiciler: Sahne değişimi, yayını başlat/durdur, Mute/Unmute, Replay Buffer.
+
+🛠️ Donanım & Uyumluluk
+Çoklu Model Desteği: Pro, Plus, Lite, Mini modelleri ile tam uyumluluk.
+
+Driver Desteği: Dahili CH340 sürücü yükleme sihirbazı.
+
+Donanım Koruması: EEPROM tabanlı şifreli cihaz kimliklendirme ve güvenlik mührü.
 
 ---
 
