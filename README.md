@@ -47,22 +47,7 @@ SFL ButtonBox'ı bilgisayarınıza kurup çalıştırmak son derece basittir:
 2. Yazılım, cihazınızı otomatik olarak algılayacak, el sıkışmayı yapacak ve ekranın sol alt tarafında yeşil renkli **"Bağlantı Başarılı!"** uyarısı belirecektir.
 3. *Not:* Eğer bilgisayarınız cihazı hiç algılamazsa, Ayarlar sekmesindeki **"Entegre Sürücüleri (CH340) Kur"** butonuna basarak gerekli USB seri port sürücüsünü saniyeler içinde yükleyebilirsiniz.
 ---
-## 🛠️ Geliştiriciler İçin Derleme (Derleme Kılavuzu)
-Eğer kaynak kodları kendiniz düzenlemek ve paketlemek istiyorsanız:
-1. Gerekli kütüphaneleri yükleyin:
-   ```bash
-   pip install -r requirements.txt
-   ```
-2. Uygulamayı yerel olarak başlatın:
-   ```bash
-   export PYTHONPATH="src"
-   python src/buttonbox.py
-   ```
-3. PyInstaller ve Inno Setup ile tek tıkla yeni bir exe kurulum paketi oluşturmak için:
-   ```bash
-   python build_exe.py
-   ```
----
+
 ## 📷 Subakan 3D Design
 Bu proje donanım ve kutu tasarımlarıyla **Subakan 3D Design** tarafından hayata geçirilmiştir. Güncel donanım modelleri ve 3D tasarımlar için resmi Instagram hesabımızı ziyaret edebilirsiniz:
 👉 [subakan 3d design Instagram](https://www.instagram.com/subakan3ddesign/)
